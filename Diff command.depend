@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1625554471 source:c:\users\siddhesh\desktop\dsa-ii\diff command\diff.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+
+1625510320 c:\users\siddhesh\desktop\dsa-ii\diff command\diff.h
+
+1625556894 source:c:\users\siddhesh\desktop\dsa-ii\diff command\main.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+
+1627205792 source:c:\users\lenovo\desktop\sem-v\dsa-ii\diff command\diff command\diff.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1627138229 c:\users\lenovo\desktop\sem-v\dsa-ii\diff command\diff command\diff.h
+
+1627138236 source:c:\users\lenovo\desktop\sem-v\dsa-ii\diff command\diff command\main.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1627205792 source:c:\users\slim-5\desktop\sy coep\sem-iii\dsa-ii\diff command\diff command\diff.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1627138229 c:\users\slim-5\desktop\sy coep\sem-iii\dsa-ii\diff command\diff command\diff.h
+
+1627138236 source:c:\users\slim-5\desktop\sy coep\sem-iii\dsa-ii\diff command\diff command\main.c
+	<stdio.h>
+	"diff.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
